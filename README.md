@@ -1,4 +1,4 @@
-# 📊 Monthly Consumption Export Dashboard
+# 📊 Monthly Export & Consumption Dashboard
 
 An interactive Excel Dashboard built using Power Query, Power Pivot, Data Model, Pivot Tables, and DAX to analyze Stationery & Spare Consumption against Export Performance. The dashboard provides dynamic business insights through KPIs, trend analysis, departmental consumption monitoring, and buyer-wise performance tracking.
 
